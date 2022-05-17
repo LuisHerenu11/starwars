@@ -1,0 +1,35 @@
+#titulo{
+    text-align: center;
+    width: 300;
+    height: 200;
+    background-color: black;
+    color: green;
+}
+
+.imagen{
+    width: 800px;
+    height: 600px;
+}
+
+.imperio{
+    background-color: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.rebeldes{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+#vader{
+    color: yellow;
+    background-color: darkred;
+}
+
+#luke{
+    color: green;
+    background-color: yellowgreen;
+}
+
