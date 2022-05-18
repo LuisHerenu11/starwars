@@ -5,6 +5,9 @@
     background-color: black;
     color: green;
 }
+h2{
+    text-align: center;
+}
 
 .imagen{
     width: 800px;
@@ -22,6 +25,9 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: whitesmoke;
 }
+.fondoNegro{
+    background-color: black;
+}
 
 #vader{
     color: yellow;
@@ -33,3 +39,9 @@
     background-color: yellowgreen;
 }
 
+.vuela{
+    border-style: solid;
+    border-color: violet;
+    border-width: 5px;
+    padding: 0px;
+}
